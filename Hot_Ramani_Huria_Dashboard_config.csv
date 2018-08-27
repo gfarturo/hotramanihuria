@@ -1,2 +1,3 @@
 name,category,type,link
 edits,mapping,api,https://osm-stats-production-api.azurewebsites.net/stats/hotosm-project-3597
+nbtrainings,capacitybuilding,csv,https://raw.githubusercontent.com/gfarturo/hotramanihuriatraining/master/Ramani%20Huria%20Training%20Sheet.csv
